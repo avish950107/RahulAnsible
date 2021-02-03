@@ -1,3 +1,3 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and avish completed the running the build.Thankyou</h2>
+<h1> avish ansible script</h1>
+<h2> updated script</h2>
+<h2> new code pushed</h2>
